@@ -1,0 +1,27 @@
+{
+  "name": "myHome",
+  "version": "0.0.1",
+  "homepage": "none",
+  "authors": [
+    "Zlatozar Dichev"
+  ],
+  "description": "later",
+  "main": "server.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.2.21",
+    "angular-resource": "~1.2.21",
+    "angular-route": "~1.2.21",
+    "toastr": "~2.0.3",
+    "bootstrap": "~3.2.0"
+  }
+}
